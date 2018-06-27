@@ -11,7 +11,7 @@ does this work?
 yes
 
 ## HTML Notes
-!DOCTYPE html decalring document type, not required
+DOCTYPE html decalring document type, not required
 h1-6 headings, sized 1-6
 body body/contents : text, links, images, tables
 main main content, only 1 main per page
