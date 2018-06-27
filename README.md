@@ -1,2 +1,2 @@
-# my-portfolio
-First test
+# My first Git Test
+This is my first Git test. It uses AWS
